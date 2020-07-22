@@ -1,0 +1,80 @@
+body{
+    background-color:rgb(206, 203, 203) ;
+    position: relative;
+}
+
+#page-container{
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap{
+    padding-bottom: 2.5rem;
+}
+
+.card, .card-left{
+    border: thin;
+}
+
+.navbar-brand{
+    background-color: teal;
+    color: white;
+
+}
+
+.nav-item, .nav-link{
+    font-size: small;
+}
+
+.btn {
+    width: 100px;
+    background-color: teal;
+   color: white;
+}
+
+.card-left{
+    display:flex;
+}
+
+.container{
+    width: 80%;letter-spacing: normal;
+    position: relative;
+    background-color: white;
+}
+
+h3{
+    color: teal;
+}
+
+#index-image{
+    width: 50%;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.text-block{
+    position: absolute;
+    background-color: teal;
+    color: white;
+    bottom: 10px;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.img-portfolio{
+    width: 30%;
+}
+
+.page-footer1{
+    background-color: teal;
+    height: 10px;
+}
+
+.page-footer2{
+    background-color: gray;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    bottom: 0px;
+}

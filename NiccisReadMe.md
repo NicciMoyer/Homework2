@@ -1,0 +1,1 @@
+For this project, I focused on the structure of the pages. I was successful in creating responsive images and text for the xs screen size. My About Me is filled with fun facts and personal gems. I also have personalized some of the profile content that I hope to be able to achieve by the end of this course.   Thank you!
